@@ -1,6 +1,10 @@
-    function contact(form){
-    var name = document.forms["form-item col-6"]["name"].value;
-    var email = document.forms["form-item col-6"]["email"].value;
-    var message = document.forms["form-item col-12"]["Your Message"].value;
-    alert("Hello! " + name + "," + " We have received your message. Thank you for reaching out to us. ");
+    function submitMessage(){
+     var name=document.getElementById("name").value;
+     var email=document.getElementById("email").value;
+     var subject=document.getElementById("subject").value;
+     var message=document.getElementById("message").value;
+     if(name !== "" && email !== "" && subject !== "" && message !== ""){
+        alert(name +" recieved");
+     }  
+    
     };

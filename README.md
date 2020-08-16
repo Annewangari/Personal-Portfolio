@@ -15,7 +15,7 @@ Anne Wangari Mwangi
 | Javascript | For functionality of the website |
 
 ## Project Screenshot
-![alt my portfolio](images/DSC_1606 (1).jpg)
+![alt my portfolio](images/screenshot.png)
 
 # How to set up
 ## First Method

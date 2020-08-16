@@ -430,3 +430,29 @@ color: #504e70;
     color: #504e70;
     margin: 0;
 }
+.biobox{
+    border-radius: 15px;
+    padding:25px;
+    margin:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fdf9ff;
+  }
+  #cv img{
+    width:36px;
+    height: 36px;
+  
+  }
+  
+  #cv h1{
+    font-size: 15px;
+  
+  }
+  #cv h2{
+    font-size: 15px;
+    color:#302e4d;
+  }
+
+  
+  
